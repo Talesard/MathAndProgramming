@@ -1,0 +1,4 @@
+PyQt5==5.15.4
+matplotlib==3.2.1
+numpy==1.18.4
+cx-Freeze==6.5.3
