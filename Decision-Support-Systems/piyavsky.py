@@ -1,6 +1,3 @@
-def f(x):
-    return x
-
 def R(x1, x0, z1, z0, m):
     return 0.5*m*(x1-x0)-(z1+z0)/2
 
